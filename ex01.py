@@ -3,4 +3,4 @@ nota2 = int(input("digite a segunda nota : "))
 
 soma = nota1 + nota2 
 
-print("A primeira é {}, segunda é {} soma das notas é : {} anos " .format(nota1, nota2,soma))
+print("A primeira é {}, segunda é {} soma das notas é : {}  " .format(nota1, nota2,soma))
