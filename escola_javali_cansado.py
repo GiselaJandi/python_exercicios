@@ -15,4 +15,4 @@ if media >= 10 :
 else:
     print("Aluno reprovado")
 
-print("------------------------")
+print("-----------------------")
